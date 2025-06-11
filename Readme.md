@@ -8,6 +8,7 @@ This repository contains a simple example of a machine learning classification t
 - Matplotlib
 
 #### Dataset Prepapration
+Github doesn't allow me to upload all of the data used for the project, but you can download the dataset from kaggle. Also I can share my drive link if needed.
 The dataset is expected to be in a directory structure where each class has its own subdirectory containing images. The directory structure should look like this:
 
 ```
